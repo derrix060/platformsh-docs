@@ -31,6 +31,7 @@
   * [PostgreSQL](configuration/services/postgresql.md)
   * [MongoDB](configuration/services/mongodb.md)
   * [InfluxDB](configuration/services/influxdb.md)
+  * [Network Storage](configuration/services/network-storage.md)
   * [Redis](configuration/services/redis.md)
   * [Memcached](configuration/services/memcached.md)
   * [Solr](configuration/services/solr.md)
